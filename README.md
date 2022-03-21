@@ -28,7 +28,7 @@
 
 <p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:shekhutsav1962001@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:shekhjeel317@gmail.com)
   
 </p>  
 
