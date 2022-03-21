@@ -24,8 +24,6 @@
 <!-- ---| -->
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux logo" width="24"> | -->
 
-
-<br>
 <h4>Let's Get in touch</h4>
 
 
