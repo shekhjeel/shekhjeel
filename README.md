@@ -26,6 +26,12 @@
 
 <h4>Let's Get in touch</h4>
 
+<p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:shekhutsav1962001@gmail.com)
+  
+</p>  
+
 
 
 
