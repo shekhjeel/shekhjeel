@@ -28,7 +28,16 @@
 
 <p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:shekhjeel317@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:shekhjeel317@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_._jeel)
+
+</p>
+
+
+
+
+
+
+
   
 </p>  
 
