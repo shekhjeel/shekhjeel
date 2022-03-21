@@ -36,6 +36,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:shekhjeel317@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_._jeel)[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hairryy-sportfolio.web.app/)
 
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=shekhjeel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
@@ -44,7 +45,7 @@
 
 
   
-</p>  
+
 
 
 
