@@ -5,7 +5,7 @@
 <br>
 ~✨ Animation attracts me a lot
 <br>
-~🌐 To showcase my UI development skills, I have developed my portfolio website **<a href="https://https://hairryy-sportfolio.web.app/">“utsavshekh.io”</a>**. It would be my pleasure if you spare some time to visit my website :)
+~🌐 To showcase my UI development skills, I have developed my portfolio website **<a href="https://hairryy-sportfolio.web.app/">“jeelshekh.io”</a>**. It would be my pleasure if you spare some time to visit my website :)
 
 
 
